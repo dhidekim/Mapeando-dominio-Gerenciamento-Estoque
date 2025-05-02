@@ -71,13 +71,3 @@ Notificação para reposição de produtos.
 ✔ **Geração de relatórios estratégicos** → Identificar tendências e otimizar compras.
 
 ---
-
-## 🚀 Como usar?
-
-Para configurar e rodar o sistema:
-
-1️⃣ **Clone este repositório**
-
-```sh
-git clone https://github.com/seu-usuario/sistema-estoque.git
-```
