@@ -14,12 +14,12 @@ Sistema projetado para ajudar empresas a rastrear, monitorar e gerenciar seu est
 
 Representa um item armazenado no estoque.  
 🔹 ID único  
-🔹 Nome 
-🔹 Tamanho 
-🔹 Cor 
-🔹 Quantidade disponível 
-🔹 Quantidade mínima de estoque 
-🔹 Histórico de movimentação
+🔹 Nome   
+🔹 Tamanho   
+🔹 Cor   
+🔹 Quantidade disponível   
+🔹 Quantidade mínima de estoque   
+🔹 Histórico de movimentação  
 
 ### 
 
@@ -44,25 +44,29 @@ Automatiza pedidos de reposição de estoque.
 🔹 Produtos a serem comprados  
 🔹 Quantidade necessária  
 🔹 Status do pedido  
-🔹 Prazos de entrega### 
+🔹 Prazos de entrega   
+
+### 
 
 **Fornecedor**
 
 Responsável pela entrega dos produtos ao estoque.  
-🔹 Nome da empresa  
-🔹 Produtos disponíveis 
-🔹 Prazos de entrega  
-🔹 Status do fornecimento### 
+🔹 Nome da empresa   
+🔹 Produtos disponíveis   
+🔹 Prazos de entrega    
+🔹 Status do fornecimento  
  
  **Alerta de Estoque**
  
- Notificação para reposição de produtos. 
- 🔹 Produto afetado 
- 🔹 Motivo do alerta (estoque baixo) 
- 🔹 Canal de envio (e-mail, sistema)
+ Notificação para reposição de produtos.  
+ 🔹 Produto afetado   
+ 🔹 Motivo do alerta (estoque baixo)   
+ 🔹 Canal de envio (e-mail, sistema)  
+ 
  ---
  
  ## ⚡ Casos de Uso
+  
  ✔ **Cadastro e gerenciamento de produtos** → Adicionar, editar e excluir produtos.  
  ✔ **Rastreamento individual de produtos** → Consultar movimentação e histórico.  
  ✔ **Definição de quantidade mínima de estoque** → Configurar limites de produtos.  
@@ -72,4 +76,5 @@ Responsável pela entrega dos produtos ao estoque.
  ✔ **Criação e gerenciamento de ordens de compra** → Automatizar reposições com base em demanda.  
  ✔ **Integração com fornecedores** → Receber atualizações automáticas sobre prazos.  
  ✔ **Geração de relatórios estratégicos** → Identificar tendências e otimizar compras.
+ 
  ---
