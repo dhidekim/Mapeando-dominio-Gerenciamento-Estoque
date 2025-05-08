@@ -27,7 +27,7 @@ Representa um item armazenado no estoque.
 
 Gerencia o conjunto de produtos armazenados.  
 🔹 Lista de produtos cadastrados  
-🔹 Controle de entrada e saída### 
+🔹 Controle de entrada e saída
 
 **Venda**
 Registra a saída de produtos do estoque.  
